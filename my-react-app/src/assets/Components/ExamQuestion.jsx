@@ -55,7 +55,7 @@ function ExamQuestion() {
             </div>
             <div className="link_items">
                 <BsFillBarChartFill style={{ fontSize: '2em', color: '#fff' }} />
-                <a href="#">Study progress</a>
+                <a href="/StudyProgress">Study progress</a>
             </div>
             <div className="link_items">
                 <BsQuestionCircle style={{ fontSize: '2em', color: '#fff' }}/>
